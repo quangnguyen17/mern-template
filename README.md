@@ -13,7 +13,7 @@
 
 - Clone repo: `git clone https://github.com/quangnguyen17/mern-template.git`
 - Change directory into repo: `cd mern-template`
-- To run server, `cd server`, `npm i`, `nodemon server.js`.
+- To run server, `cd server`, `npm i bcrypt`, `npm i`, `nodemon server.js`.
 - To run client, `cd client`, `npm i`, `npm start`.
 
 #### Bonuses: Login & Registration, WebSocket, JWT, etc.
