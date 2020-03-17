@@ -1,7 +1,7 @@
 const jwt = require("jsonwebtoken");
 
 // Secret Key
-const secret = "everyAppRequiresASecretKeyAndThisIsMyAppSecretKey";
+const secret = "Every app requires a unique and secret key.";
 module.exports.secret = secret;
 
 // Authenticate
